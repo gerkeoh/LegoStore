@@ -1,0 +1,8 @@
+
+Customer: Gerard
+Items Purchased:
+Lego Star Wars - Millenium Falcon - $120.0
+
+Customer: Gerard
+Items Purchased:
+Lego Harry Potter - Hogwarts Attack - $20.0

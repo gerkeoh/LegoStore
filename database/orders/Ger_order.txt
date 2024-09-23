@@ -1,0 +1,8 @@
+
+Customer: Ger
+Items Purchased:
+Lego Harry Potter - The Whomping Willow Adventure - $60.0
+
+Customer: Ger
+Items Purchased:
+Lego Ninjago - Ninja Mech - $50.0
